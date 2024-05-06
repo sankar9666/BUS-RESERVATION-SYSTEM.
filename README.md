@@ -98,8 +98,8 @@ Follow the following steps to get development environment running.
    _OR USING SSH_
 
   ```bash
-  git@github.com:sankar9666/BUS-RESERVATION-SYSTEM..git
-  ```
+
+  ```git@github.com:sankar9666/BUS-RESERVATION-SYSTEM..git
 
 * Install node modules
 
