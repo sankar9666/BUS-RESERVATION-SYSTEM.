@@ -8,8 +8,9 @@ The Bus ticket application is composed of the following Features:
 # Preview 🏞️ 🌅
 ![Alt text](<Screenshot 2024-05-01 200859.png>)
 ![Alt text](<Screenshot 2024-05-01 201224.png>)
-![Alt text](<Screenshot 2024-05-01 201408.png>) ![Alt text](<Screenshot 2024-05-01 201408.png>)
-pn
+![Alt text](<Screenshot 2024-05-01 201408.png>) 
+![Alt text](<Screenshot 2024-05-01 201408.png>)
+
 
 
 ### Front-End
@@ -91,13 +92,13 @@ Follow the following steps to get development environment running.
 * Clone _'Bus-Booking-Project.git'_ repository from GitHub
 
   ```bash
-  git clone https://github.com/Baljeet9670/Bus-Booking-Project.git
-  ```
+  
+  ```https://github.com/sankar9666/BUS-RESERVATION-SYSTEM..git
 
    _OR USING SSH_
 
   ```bash
-  git clone git@github.com:Baljeet9670/Bus-Booking-Project.git
+  git@github.com:sankar9666/BUS-RESERVATION-SYSTEM..git
   ```
 
 * Install node modules
