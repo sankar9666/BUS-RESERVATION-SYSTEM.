@@ -9,7 +9,7 @@ The Bus ticket application is composed of the following Features:
 ![Alt text](<Bus-reservation/Screenshot 2024-05-01 200859.png>)
 ![Alt text](<Bus-reservation/Screenshot 2024-05-01 201224.png>)
 ![Alt text](<Bus-reservation/Screenshot 2024-05-01 201408.png>) 
-![Alt text](<Bus-reservation/Screenshot 2024-05-01 201408.png>)
+![Alt text](<Bus-reservation/Screenshot 2024-05-01 201425.png>)
 
 
 
