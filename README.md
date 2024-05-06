@@ -89,17 +89,17 @@ npm -v
 
 Follow the following steps to get development environment running.
 
-* Clone _'Bus-Booking-Project.git'_ repository from GitHub
+* Clone _'BUS-RESERVATION-SYSTEM.git'_ repository from GitHub
 
   ```bash
-  
-  ```https://github.com/sankar9666/BUS-RESERVATION-SYSTEM..git
+  git clone https://github.com/sankar9666/BUS-RESERVATION-SYSTEM..git
+  ```
 
    _OR USING SSH_
 
   ```bash
-
-  ```git@github.com:sankar9666/BUS-RESERVATION-SYSTEM..git
+  git clone git@github.com:sankar9666/BUS-RESERVATION-SYSTEM..git
+  ```
 
 * Install node modules
 
